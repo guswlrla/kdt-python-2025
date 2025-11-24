@@ -1,0 +1,6 @@
+Hello!
+How are you?
+hello.txt에서 직접 작성한 글
+hello.txt에서 직접 작성한 글2
+Fine, thanks.
+And you?
